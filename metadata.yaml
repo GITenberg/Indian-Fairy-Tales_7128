@@ -1,0 +1,51 @@
+_repo: Indian-Fairy-Tales_7128
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Jacobs, Joseph
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2470'
+    url: http://www.gutenberg.org/2009/agents/2470
+  illustrator:
+    agent_name: Batten, John Dickson
+    aliases:
+    - Batten, John D.
+    - Batten, J. D. (John Dickson)
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '6327'
+    url: http://www.gutenberg.org/2009/agents/6327
+    wikipedia: http://en.wikipedia.org/wiki/John_Dickson_Batten
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Children's Myths, Fairy Tales, etc.
+- India
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- India'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore -- India'
+- GITenberg
+tableOfContents: The lion and the crane -- How the Raja's son won the Princess Labam
+  -- The lambikin -- Punchkin -- The broken pot -- The magic fiddle -- The cruel crane
+  outwitted -- Loving Laili -- The tiger, the Brahman, and the jackal -- The soothsayer's
+  son -- Harisarman -- The charmed ring -- The talkative tortoise -- A lac of rupees
+  for a piece of advice -- The gold-giving serpent -- The son of seven queens -- A
+  lesson for kings -- Pride goeth before a fall -- Raja Rasalu -- The ass in the lion's
+  skin -- The farmer and the money-lender -- The boy who had a moon on his forehead
+  and a star on his chin -- The prince and the fakir -- Why the fish laughed -- The
+  demon with the matted hair -- The ivory city and its fairy princess -- Sun, moon,
+  and wind go out to dinner -- How the wicked sons were duped -- The pigeon and the
+  crow.
+title: Indian Fairy Tales
+url: http://www.gutenberg.org/ebooks/7128
