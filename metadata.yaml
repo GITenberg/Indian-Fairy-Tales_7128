@@ -1,5 +1,5 @@
 _repo: Indian-Fairy-Tales_7128
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Jacobs, Joseph
@@ -17,7 +17,12 @@ contributor:
     gutenberg_agent_id: '6327'
     url: http://www.gutenberg.org/2009/agents/6327
     wikipedia: http://en.wikipedia.org/wiki/John_Dickson_Batten
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7128#Indian-Fairy-Tales
 gutenberg_bookshelf:
 - Folklore
 - Children's Myths, Fairy Tales, etc.
